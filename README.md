@@ -1,4 +1,4 @@
 #Wolf próba
 
-- [Strona 1](Próbalogiki.html)
-- [Strona 2](projekt.html)
+- [Strona 1](Próbalogiki.htm)
+- [Strona 2](projekt.htm)
