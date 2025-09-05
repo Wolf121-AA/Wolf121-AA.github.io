@@ -1,1 +1,4 @@
-# Wolf121-AA.github.io
+#Wolf próba
+
+- [Strona 1](Próbalogiki.html)
+- [Strona 2](projekt.html)
